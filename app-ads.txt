@@ -1116,3 +1116,7 @@ improvedigital.com,2050,RESELLER
 mintegral.com,10043,RESELLER,0aeed750c80d6423
 media.net,8CUM64E17,RESELLER
 start.io,uam,RESELLER
+minutemedia.com,01gya4708ddm,RESELLER
+risecodes.com,63832beef8189a00015cb6d3,RESELLER
+visiblemeasures.com,1052,RESELLER
+
